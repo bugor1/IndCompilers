@@ -1,0 +1,9 @@
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\bin\Debug\SimpleLang.exe
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\bin\Debug\SimpleLang.pdb
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\bin\Debug\System.Numerics.dll
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\bin\Debug\ru\System.Numerics.resources.dll
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\ParserVistors.csprojAssemblyReference.cache
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\ParserVistors.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\ParserVistors.csproj.CopyComplete
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\SimpleLang.exe
+C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\SimpleLang.pdb
