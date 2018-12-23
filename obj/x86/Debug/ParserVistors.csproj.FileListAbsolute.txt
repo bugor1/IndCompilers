@@ -7,3 +7,12 @@ C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\Pa
 C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\ParserVistors.csproj.CopyComplete
 C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\SimpleLang.exe
 C:\Users\user\Documents\mmcs-cs311-assignments-Lenstrok\Module7\obj\x86\Debug\SimpleLang.pdb
+C:\University\Compilators\IndCompilers\bin\Debug\SimpleLang.exe
+C:\University\Compilators\IndCompilers\bin\Debug\SimpleLang.pdb
+C:\University\Compilators\IndCompilers\bin\Debug\System.Numerics.dll
+C:\University\Compilators\IndCompilers\bin\Debug\ru\System.Numerics.resources.dll
+C:\University\Compilators\IndCompilers\obj\x86\Debug\ParserVistors.csprojAssemblyReference.cache
+C:\University\Compilators\IndCompilers\obj\x86\Debug\ParserVistors.csproj.CoreCompileInputs.cache
+C:\University\Compilators\IndCompilers\obj\x86\Debug\ParserVistors.csproj.CopyComplete
+C:\University\Compilators\IndCompilers\obj\x86\Debug\SimpleLang.exe
+C:\University\Compilators\IndCompilers\obj\x86\Debug\SimpleLang.pdb
